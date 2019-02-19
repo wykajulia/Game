@@ -1,4 +1,4 @@
-//POP_2016_12_16_projekt_1_Julia_Wyka_EiT_165304 Dev C++ wercja 5.11
+
 
 #include <iostream>
 #include <cstdlib>
