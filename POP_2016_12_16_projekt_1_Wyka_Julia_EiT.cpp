@@ -365,4 +365,4 @@ void koniec_gry(int *wsk)
 	cout<<"Zebrales wszystkie 5 skarbow wykonujac: "<<*wsk<<" ruchy :)";
 	cout<<endl<<endl;
 	menu();
-}
+} 
